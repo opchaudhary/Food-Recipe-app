@@ -40,7 +40,7 @@ Responsive Design: The app is designed to be responsive and accessible across va
 1. **Clone the repository:**
 
     ```bash
-    git clone 
+    git clone https://github.com/opchaudhary/Food-Recipe-app.git
     ```
 
 2. **Navigate to the project directory:**
